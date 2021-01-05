@@ -1,0 +1,23 @@
+body{
+  font-family: 'Fira Sans', sans-serif;
+  background: linear-gradient(147deg,#f6b323 0%, #f23b26 74%);
+}
+.backdrop{
+border-radius: 80px;
+background-color: white;
+}
+.img{
+  text-align: center;
+}
+.title{
+ 
+  text-align: center;
+  font-family: "stencil";
+  color:black;
+}
+.paragraph{
+  text-align: center;
+  font-size: 30px;
+  font-family: "cooper black";
+  color:rgb(54, 54, 54)
+}
